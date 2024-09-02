@@ -1,9 +1,0 @@
-{
-    "CodeGPT.apiKey": "Nvidia",
-    "files.associations": {
-        "stdio.h": "c",
-        "cs50.h": "c"
-    },
-    "pieces.cloudCapabilities": "Blended",
-    "pieces.telemetry": true
-}
