@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <cs50.h>
 
-int main(void){
-    int n;
+int main(int argc , string argv[]){
+    int n = atoi( argv[1]);
     do{
         n = get_int("Height: ");
     }while (n<=0);
